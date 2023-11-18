@@ -4,3 +4,5 @@ com/selenium/firstAssignment/ChromeBrowserLaunch.java
  com.selenium.firstAssignment.ChromeBrowserLaunch
 com/selenium/secondAssignment/LocatorTest.java
  com.selenium.secondAssignment.LocatorTest
+com/selenium/secondAssignment/WebElementTest.java
+ com.selenium.secondAssignment.WebElementTest
